@@ -1,5 +1,5 @@
 ### Hi there 👋
- <h2> Hey there! I'm vikky.</h2>
+ <h2> Hey there! I'm vikky singh.</h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
