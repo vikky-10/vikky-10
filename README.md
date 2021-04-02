@@ -18,6 +18,7 @@
   <br />
   
  [![website](https://img.shields.io/badge/PortfolioWebsite-vikky.live-2648ff?style=flat-square&logo=google-chrome)](https://elastic-borg-73e037.netlify.app/)
+ [![website](https://img.shields.io/badge/BlogWebsite-vikky.live-2648ff?style=flat-square&logo=google-chrome)](https://compassionate-spence-7580d6.netlify.app/)
  
 
  <br />
@@ -42,6 +43,8 @@
 <p align="center">
  
 <a href="vikkyhp0007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email- vikkyhp0007@gmail.com-blue?style=flat-square&logo=gmail"></a>
+ 
+<a href="https://www.linkedin.com/in/vikky-singh-10012001/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-https://www.linkedin.com/in/vikky-singh-10012001/-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [vikky-10](https://github.com/vikky-10)
