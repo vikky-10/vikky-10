@@ -5,14 +5,28 @@
 
 - 🤔 &nbsp; Exploring new technologies.
 - 🎓 &nbsp; Studying Computer Science  at Lovely Professional University.
+- 👯 I love open source.
+- 💬 Ask me about web or any tech-related stuff.
+- 🌱 I’m currently learning more about Angular DS and Algo.
  
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | 
+- 💻 &nbsp; Java | c++ | Python | Firebase 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS
 - 🛢 &nbsp; MySQL | MongoDB
  
+ [![website](https://img.shields.io/badge/PortfolioWebsite-vikky.live-2648ff?style=flat-square&logo=google-chrome)](https://elastic-borg-73e037.netlify.app/)
  
+ <br />
+ <br />
+ 
+ 
+**Languages and Tools:**  
+ 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>  
 
 <br/>
 
