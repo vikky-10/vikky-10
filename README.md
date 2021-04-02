@@ -44,7 +44,8 @@
  
 <a href="vikkyhp0007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email- vikkyhp0007@gmail.com-blue?style=flat-square&logo=gmail"></a>
  
-<a href="https://www.linkedin.com/in/vikky-singh-10012001/"><img alt="Linkedin" src="https://img.shields.io/badge/Linkedin-https://www.linkedin.com/in/vikky-singh-10012001/-blue?style=flat-square&logo=gmail"></a>
+ 
+[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/vikky-singh-10012001/)
 </p>
 
 ⭐️ From [vikky-10](https://github.com/vikky-10)
