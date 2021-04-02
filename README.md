@@ -25,6 +25,7 @@
  
  
 **Languages and Tools:**  
+<span>
  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -33,7 +34,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code> 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code> 
-
+</span>
 <br/>
 
 [![ vikky-10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikky-10&show_icons=true)](https://github.com/vikky-10)
@@ -45,7 +46,7 @@
 <a href="vikkyhp0007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email- vikkyhp0007@gmail.com-blue?style=flat-square&logo=gmail"></a>
  
  
-[![Linkedin: imthepk](https://img.shields.io/badge/-imthepk-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imthepk/)](https://www.linkedin.com/in/vikky-singh-10012001/)
+[![Linkedin: imthepk](https://img.shields.io/badge/-vikky-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vikky-singh-10012001/)](https://www.linkedin.com/in/vikky-singh-10012001/)
 </p>
 
 ⭐️ From [vikky-10](https://github.com/vikky-10)
