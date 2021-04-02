@@ -3,11 +3,11 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies.
-- 🎓 &nbsp; Studying Computer Science  at Lovely Professional University.
-- 👯 I love open source.
-- 💬 Ask me about web or any tech-related stuff.
-- 🌱 I’m currently learning more about Angular DS and Algo.
+- 🤔  Exploring new technologies.
+- 🎓  Studying Computer Science  at Lovely Professional University.
+- 👯  I love open source.
+- 💬  Ask me about web or any tech-related stuff.
+- 🌱  I’m currently learning more about Angular DS and Algo.
  
 <h3>🛠 Tech Stack</h3>
 
