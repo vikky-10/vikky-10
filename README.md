@@ -16,7 +16,7 @@
 
 <br/>
 
-[![mrstark-A's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mrstark-A&show_icons=true)](https://github.com/mrstark-A)
+[![ vikky-10's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vikky-10&show_icons=true)](https://github.com/vikky-10)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -25,4 +25,4 @@
 <a href="vikkyhp0007@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email- vikkyhp0007@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
-⭐️ From [mrstark-A](https://github.com/mrstark-A)
+⭐️ From [vikky-10](https://github.com/vikky-10)
