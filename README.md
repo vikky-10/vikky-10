@@ -1,4 +1,4 @@
- <a href="https://imgur.com/CrSeIEd"><img src="https://i.imgur.com/CrSeIEd.png" title="source: imgur.com" /></a>
+ <a href="https://imgur.com/CrSeIEd"><img width="100%" height="auto" src="https://i.imgur.com/CrSeIEd.png" title="source: imgur.com" /></a>
  
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Vikky</h1>
