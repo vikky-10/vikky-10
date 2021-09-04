@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m currently working on **OpenSource Projects** with **<span style="background-color: #FFFF00">GWOC</span>(https://gwoc.girlscript.tech/)**
+- 👯 I’m currently working on **OpenSource Projects** with **[<span style="background-color: #FFFF00">GWOC</span>](https://gwoc.girlscript.tech/)**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://vikkysingh.netlify.app/)**
 
