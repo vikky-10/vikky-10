@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 👯 I’m currently working on **OpenSource Projects** with **GWOC**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://vikkysingh.netlify.app/)**
 
